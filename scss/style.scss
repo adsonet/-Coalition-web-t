@@ -1,0 +1,14 @@
+
+// custom
+
+@import "variables";
+
+
+
+// bootstrap - required
+ @import "../node_modules/bootstrap/scss/bootstrap";
+
+
+@import "header";
+@import "global";
+@import "carousel";
